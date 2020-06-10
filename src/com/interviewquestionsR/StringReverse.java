@@ -1,4 +1,4 @@
-package com.interviewquestions;
+package com.interviewquestionsR;
 
 //We will be solving interview questions under this package
 

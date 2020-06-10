@@ -1,4 +1,4 @@
-package com.interviewquestions2;
+package com.interviewquestionsE;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package com.interviewquestions;
+package com.interviewquestionsR;
 
 public class LargestNum {
 
@@ -16,7 +16,7 @@ public class LargestNum {
 
 		
 		//or
-		int[] array = { 22, 100, 43, 11, 0 };
+		int[] array = { 22, 100, 43, 11, 0 };//dfmsldv
 		int max = array[0];
 		for(int i: array) {
 			if(array[i]>max) {

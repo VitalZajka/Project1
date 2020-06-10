@@ -1,4 +1,4 @@
-package com.interviewquestions;
+package com.interviewquestionsR;
 
 public class Palindrome {
 

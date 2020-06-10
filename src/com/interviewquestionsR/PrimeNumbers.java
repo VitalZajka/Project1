@@ -1,4 +1,4 @@
-package com.interviewquestions;
+package com.interviewquestionsR;
 /*
  * prime number is diivisible only to 1 and itslef
  * 
